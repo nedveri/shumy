@@ -1,0 +1,8 @@
+v. Alpha-0.2
+
+- [] Perlin 3d/4d
+- [] SimplexNoise
+- [ ] Worley Noise
+- [ ] Domain Warp ?
+- [ ] OOP API ?
+- [ ] SIMD optimization ?
