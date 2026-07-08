@@ -5,7 +5,7 @@
  *      Author: nedveri
  */
 
-#include <White.h>
+#include "shumy/White.h"
 
 const unsigned X_CONST = 374761393;
 const unsigned Y_CONST = 668265263;

@@ -5,7 +5,7 @@
  *      Author: nedveri
  */
 
-#include "FBM.h"
+#include "shumy/FBM.h"
 
 namespace shumy
 {

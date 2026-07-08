@@ -5,7 +5,7 @@
  *      Author: nedveri
  */
 
-#include <Perlin.h>
+#include <shumy/Perlin.h>
 
 namespace shumy
 {

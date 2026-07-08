@@ -5,8 +5,8 @@
  *      Author: nedveri
  */
 
-#include "Value.h"
-#include "White.h"
+#include "shumy/Value.h"
+#include "shumy/White.h"
 
 namespace shumy
 {
