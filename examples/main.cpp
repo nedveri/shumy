@@ -5,7 +5,6 @@
  *      Author: nedveri
  */
 #include <shumy/Noise.h>
-#include <iostream>
 
 int main()
 {
